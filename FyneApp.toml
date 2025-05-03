@@ -1,0 +1,11 @@
+Website = "not.yet.exists"
+
+[Details]
+  Icon = "Icon.png"
+  Name = "Billions"
+  ID = "biehdc.fynedev.billionsofmessages"
+  Version = "0.1"
+  Build = 8
+
+[Migrations]
+  fyneDo = true
